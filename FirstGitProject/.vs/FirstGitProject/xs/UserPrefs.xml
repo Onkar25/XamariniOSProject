@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{454EE17D-744B-4010-9AC6-0D2E01B0BAF3}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstGitProject" expanded="True">
+            <Node name="FirstGitProject" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstGitProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2839F6A5-2BB0-4E50-90C4-B0E05093A7A7">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FirstGitProject>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
